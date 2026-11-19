@@ -1,7 +1,7 @@
 # Runbook: real GLM-5.2 on this Mac — storage, download, and the road through M7–M9
 
 Machine: M4 Max, 64 GB unified memory, 926 GiB internal NVMe (~365 GiB free as of
-2026-07-19). Training design target per [AGENTS.md](../../AGENTS.md): trainer RSS
+2026-07-19). Training design target: trainer RSS
 ≤ 52 GB, hard ceiling 56 GB, zero steady-state swap.
 
 ---

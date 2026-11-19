@@ -330,7 +330,7 @@ go and chat about something else, and the answers are waiting when you come back
 
 ## Under the protocol
 
-If you speak the [serve protocol](serve_protocol) directly, System One mode is two
+If you speak the [serve protocol](serve_protocol.md) directly, System One mode is two
 optional keys on `SUBMIT`. Both are opt-in: a request that does not send them
 produces byte-identical frames to one sent before the feature existed.
 

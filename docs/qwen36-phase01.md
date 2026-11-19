@@ -61,7 +61,7 @@ SNAP=/data/qwen36_i4 ./qwen36.exe 16 4 ref_qwen36.json
 
 ## 云端转换(推荐:笔记本只下载成品容器)
 
-见 [`docs/qwen36-cloud-convert.md`](./qwen36-cloud-convert.md)。转换器已支持 `--repo` 拉权重 + `--upload-repo` 推回 Hub + `--low-disk` 流式省磁盘。笔记本端只 `snapshot_download` 那 18GB `.coli` 容器即可。
+转换器已支持 `--repo` 拉权重 + `--upload-repo` 推回 Hub + `--low-disk` 流式省磁盘。笔记本端只 `snapshot_download` 那 18GB `.coli` 容器即可。
 
 ## 容器格式 / 张量约定
 
